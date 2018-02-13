@@ -1,0 +1,19 @@
+<html>
+    <head>
+        <title>Quick BIN.JS testing.</title>
+    </head>
+    <body>
+        After clicking <button onclick="btnc();">this</button> download of file named
+        test.txt with content 'Hello, world!' should start.
+        <script src="bin.min.js"></script>
+        <script>
+        function btnc(){
+            with(binjs){
+                var v = new File('test.txt');
+                v.put('Hello, world!\n');
+                v.download();
+            }
+        }
+        </script>
+    </body>
+</html>
