@@ -8,7 +8,7 @@ There's really no need of configuring program - it runs by itself. All you need 
 
 ## Deployment
 
-There is no need to need to make some serious changes to work. Code in most cases don't need any changes, but if you will spot any error please report it in issues section or try to repair it yourself (it would be kind to commit changes!).
+There is no need to make some serious changes to work. Code in most cases don't need any changes, but if you will spot any error please report it in issues section or try to repair it yourself (it would be kind to commit changes!).
 
 ## Contributing
 Please read [this](https://github.com/KrzysztofSzewczyk/LPing/blob/master/CONTRIB.md) for details on our code of conduct, and the process for submitting pull requests to us.
