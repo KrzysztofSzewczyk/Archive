@@ -27,7 +27,7 @@ You can also check out examples. Examples and minified version of library ain't 
 
 ## Deployment
 
-There is no need to need to make some serious changes to work. Code in most cases don't need any changes, but if you will spot any error please report it in issues section or try to repair it yourself (it would be kind to commit changes!).
+There is no need to make some serious changes to work. Code in most cases don't need any changes, but if you will spot any error please report it in issues section or try to repair it yourself (it would be kind to commit changes!).
 
 ## Contributing
 Please read [this](https://github.com/KrzysztofSzewczyk/Bin.JS/blob/master/CONTRIB.md) for details on our code of conduct, and the process for submitting pull requests to us.
