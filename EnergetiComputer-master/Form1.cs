@@ -69,7 +69,7 @@ namespace EnergetiComputer
 
         private void trackBar2_Scroll(object sender, EventArgs e)
         {
-            label2.Text = "Pobór dodatkowego sprzętu (głośnik,modem, urz.peryferyjne, jedno gniazdo to ok. 0.5 W, zakres 30 W do 100 W): " + trackBar2.Value;
+            label2.Text = "Pobór dodatkowego sprzętu (głośnik, modem, urz.peryferyjne, jedno gniazdo to ok. 0.5 W, zakres 30 W do 100 W): " + trackBar2.Value;
         }
 
         private void trackBar3_Scroll(object sender, EventArgs e)
